@@ -3,7 +3,7 @@
 
 
 /*  Primary css */
-
+/* if generic div tag is adjusted it could affect nav toggle function*/ 
 
 #container {
 	background-color: white;
@@ -49,11 +49,12 @@
 
 
 #main {
-	width: 600px;
+	/*width: 600px;*/
 	/*float: right;*/
 	margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
+  width: 80%;
 }
 
 #footer {
@@ -67,3 +68,4 @@
 	font-weight: bold;
 
 }
+
